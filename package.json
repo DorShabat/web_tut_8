@@ -1,5 +1,5 @@
 {
-  "name": "my-tailwind-project",
+  "name": "web_tut_8",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://DorShabat.github.io/my-tailwind-project",
+  "homepage": "https://DorShabat.github.io/web_tut_8",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
